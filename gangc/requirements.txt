@@ -82,7 +82,7 @@ pyzmq==23.0.0
 requests==2.27.1
 rich==13.4.2
 scikit-learn==1.1.1
-scipy==1.8.1
+scipy==1.10.0
 semver==2.13.0
 Send2Trash==1.8.0
 simplejson==3.17.6
